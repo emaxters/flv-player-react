@@ -1,6 +1,6 @@
 {
   "name": "flv-player-react",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Play FLV videos with JS without Flash",
   "main": "index.js",
   "scripts": {

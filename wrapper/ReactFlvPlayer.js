@@ -73,7 +73,7 @@ var ReactFlvPlayer = function (_Component) {
         _flv2.default.LoggingControl.enableError = false;
         _flv2.default.LoggingControl.enableWarn = enableWarning;
 
-        flvPlayer.attachMediaElement(this.myRef.current);
+        flvPlayer.attachMediaElement(this.myRef.current); 
         flvPlayer.load();
         flvPlayer.play();
         flvPlayer.on('error', function (err) {
