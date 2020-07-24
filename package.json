@@ -1,0 +1,25 @@
+{
+  "name": "flv-player-react",
+  "version": "1.0.0",
+  "description": "Play FLV videos with JS without Flash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emaxters/flv-player-react.git"
+  },
+  "author": "emaxters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emaxters/flv-player-react/issues"
+  },
+  "dependencies": {
+    "babel-preset-react": "^6.24.1",
+    "object-assign": "^4.1.1",
+    "prop-types": "^15.6.0",
+    "react": "^16.8.6"
+  },
+  "homepage": "https://github.com/emaxters/flv-player-react#readme"
+}
